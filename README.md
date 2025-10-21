@@ -51,3 +51,5 @@ Join our community of developers creating universal apps.
 ...
 
 # Alterado por Juquinha
+
+Melhorado por Joana
